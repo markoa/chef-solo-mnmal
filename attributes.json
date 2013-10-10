@@ -1,0 +1,9 @@
+{
+  "hello": {
+    "application": "chef",
+    "message": "chef works"
+  },
+  "recipes": [
+    "hello"
+  ]
+}
